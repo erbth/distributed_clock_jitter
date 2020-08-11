@@ -1,0 +1,6 @@
+# Files related to VIM
+*.swp
+mysession.vim
+
+# Binary directory
+/build
